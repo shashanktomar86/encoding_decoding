@@ -1,0 +1,11 @@
+encode value for 6111 -> 775F
+encode value for 340 -> 42A8
+encode value for -2628 -> 553C
+encode value for -255 -> 3E02
+encode value for 7550 -> 7AFC
+
+decode value for 0A0A -> -5622
+decode value for 0029 -> -8151
+decode value for 3F0F -> 7951
+decode value for 4400 -> 512
+decode value for 5E7F -> -257
